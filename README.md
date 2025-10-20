@@ -1,5 +1,8 @@
 # Hopewell Group of Companies - Sales Report 2017
-<img width="1412" height="787" alt="image" src="https://github.com/user-attachments/assets/bebc6bb1-a15d-4164-87d0-030c031de9b2" />
+
+---
+
+
 ## Overview
 This dashboard provides a comprehensive view of sales performance for the Hopewell Group of Companies during the 2017 fiscal year. The report tracks revenue, quantities sold, regional performance, and individual salesperson contributions.
 
